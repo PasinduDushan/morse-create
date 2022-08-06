@@ -16,7 +16,7 @@
     "convert"
   ],
   "author": "PasinduRanasinghe",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "chalk": "^4.1.0",
     "commander": "^9.4.0",
